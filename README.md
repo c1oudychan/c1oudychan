@@ -11,5 +11,5 @@
 #### Моя гордость и просто необычайный сервер - OTLegacy!
 ### Моя статистика
 
-![Stats](https://github-readme-stats.vercel.app/api?username=s3nkwr&show_icons=true&theme=synthwave)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s3nkwr&show_icons=true&theme=synthwave)
 
