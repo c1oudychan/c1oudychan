@@ -8,7 +8,7 @@
 3. OTRename - плагин на переименование. Для OTL [DEPRECATED]
 4. SquareWay - плагин для Вейпойнтов на Squaremap. Для OTL [РАЗРАБАТЫВАЕТСЯ]
 ### Сервера
-#### Моя гордость и просто необычайный сервер - [OTLegacy!](https://dsc.gg/otlegacy)
+#### Мой необычайный сервер - [OTLegacy!](https://dsc.gg/otlegacy)
 ### Моя статистика
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s3nkwr&show_icons=true&theme=synthwave)
