@@ -8,7 +8,7 @@
 3. OTRename - плагин на переименование. Для #OTL [Deprecated]
 4. SquareWay - плагин для Вейпойнтов на Squaremap. Для #OTL [In dev]
 ### Боты
-1. OTKiwi - обычный бот на Discord.js. Для OTL [TypeScript]
+1. OTKiwi - обычный бот на Discord.js. Для #OTL [TypeScript]
 2. Объявления - бот для объявлений. Для #OTL [TypeScript]
 ### Сервера
 #### Мой необычайный сервер - [\#OTLegacy!](https://dsc.gg/otlegacy)
