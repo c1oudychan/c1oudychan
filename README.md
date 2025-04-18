@@ -7,7 +7,7 @@
 ### Моя статистика
 | гихаб | дисорд |
 |-------|-------|
-| ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s3nkwr&show_icons=true&theme=synthwave) | [![Discord Presence](https://lanyard.cnrad.dev/api/494529422511308804)](https://discord.com/users/494529422511308804) |
+| [![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s3nkwr&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) | [![Discord Presence](https://lanyard.cnrad.dev/api/494529422511308804)](https://discord.com/users/494529422511308804) |
 
 <!--
 // mentioned for deletion...
